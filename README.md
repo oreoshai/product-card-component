@@ -40,7 +40,7 @@ I'm deeply intrgued by flexbox and also CSS Grid and will continue my developmen
 
 ### Useful resources
 
-- [CSS-Tricks](https://www.example.com) - This website helped me to gain a deeper understanding of:
+- [CSS-Tricks](https://css-tricks.com/) - This website helped me to gain a deeper understanding of:
    -CSS Grid
    -Flexbox 
    -Media Queries
