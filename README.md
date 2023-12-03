@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-(/product-preview-card-component-main/images/screenshot.jpg)
+![](/product-preview-card-component-main/images/screenshot.jpg)
 
 ### Built with
 
