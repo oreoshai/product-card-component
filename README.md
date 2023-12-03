@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/product-preview-card-component-main/images/screenshot.jpg)
+![screenshot](https://github.com/oreoshai/product-card-component/assets/57740405/c10195ec-d6fe-45b0-b979-d0c08e6ed6b3)
+
 
 ### Built with
 
